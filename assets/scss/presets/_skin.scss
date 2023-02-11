@@ -1,0 +1,22 @@
+$bg-dark: #060A16;
+$color-primary: #ffffff;
+$color-primary-light: #517ba2;
+$color-primary-dark: #D7D7D7;
+
+$color-accent: #6f42c1;
+$color-accent-focus: #d63384;
+$color-accent-focus-light: lighten($color-accent-focus, 10%);
+$color-accent-light: lighten($color-accent, 15%);
+
+$color-dark: #232323;
+$color-deep-dark: darken($color-dark, 4%);
+
+$color-gray: #d5d5d5;
+$color-gray-light: lighten($color-gray, 12%);
+$color-gray-dark: darken($color-gray, 40%);
+
+$color-gradient: linear-gradient(to left, #743ad5, #d53a9d);
+
+$color-white: #ffffff;
+
+$color-black: #000000;
